@@ -69,7 +69,7 @@ server {
 
 ## Установка
 
-- `git clone https://github.com/nikolaevdev/yngling.git .` в папке, где будет расположено приложение
+- `git clone https://github.com/Shishkoder/yngling.git .` в папке, где будет расположено приложение
 - Отредактируйте `.env` и задайте данные подключения к базе данных
 - (При установке с помощью git clone или загрузки запустите "php artisan key:generate" и "php artisan jwt:secret")
 - `php artisan migrate`
